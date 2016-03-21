@@ -1,0 +1,5 @@
+c:\users\pc user\documents\visual studio 2012\Projects\Finals-Quiz2\Finals-Quiz2\bin\Debug\Finals-Quiz2.exe.config
+c:\users\pc user\documents\visual studio 2012\Projects\Finals-Quiz2\Finals-Quiz2\bin\Debug\Finals-Quiz2.exe
+c:\users\pc user\documents\visual studio 2012\Projects\Finals-Quiz2\Finals-Quiz2\bin\Debug\Finals-Quiz2.pdb
+c:\users\pc user\documents\visual studio 2012\Projects\Finals-Quiz2\Finals-Quiz2\obj\Debug\Finals-Quiz2.exe
+c:\users\pc user\documents\visual studio 2012\Projects\Finals-Quiz2\Finals-Quiz2\obj\Debug\Finals-Quiz2.pdb
